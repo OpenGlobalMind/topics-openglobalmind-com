@@ -4,7 +4,7 @@
 
 ## Project
 
-[[Interested People]]  
+[[Interested?]]  
 [[Features]]  
 [[Roles]]  
 
