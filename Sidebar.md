@@ -4,7 +4,9 @@
 
 ## Project
 
-[[Interested People]]
+[[Interested People]]  
+[[Features]]  
+[[Roles]]  
 
 ## General Navigation
 
